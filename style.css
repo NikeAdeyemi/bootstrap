@@ -1,0 +1,93 @@
+/* .first-header{
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 20px 10px 30px 15px;
+    margin: 40px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid yellow;
+}
+
+p{
+   border: 2px dotted blue;
+   border-radius: 20px;
+   width: 50%;
+   margin-top: 80px;
+   padding: 20px;
+}
+
+.second-header{
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    color: chocolate;
+}
+
+li{
+    font-style: italic;
+    font-size: 25px;
+    color: blueviolet;
+}
+
+#second{
+    color: darkred;
+}
+
+#first, #second, #third{
+    text-decoration: overline;
+    font-style: 30px;
+    color: magenta;
+} */
+
+/* .uba-logo{
+    height: 50px;
+    width: 70px;
+}
+
+.navbar{
+    width: 100%;
+    height: 100px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 5px lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.child-two .link1{
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.child-two > .link2{
+    text-decoration: none;
+    margin-right: 15px;
+    color: red;
+}
+
+h1 + p {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1 ~ p{
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+} */
+
+.logo{
+    width: 70px;
+    height: 50px;
+}
+
+.slide-image{
+    width: 100%;
+    height: 90vh;
+}
